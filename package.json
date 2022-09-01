@@ -1,5 +1,5 @@
 {
-  "name": "kaidobotz",
+  "name": "hisoka-morou",
   "version": "3.1.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "MaoneArt",
+  "author": "Dika Ardnt.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "github:FatihArridho/Baileys",
