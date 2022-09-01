@@ -12,10 +12,7 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 
-// Apikey Website Api
-global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
-}
+ZWNCd4q4Vq8N8Z/KJmLwx3DGchZlugE6oz99PnM48VAUSXQ3mwbk+cCbNPZtI7dFw7DiImiSzB0+KgA+3NFiZS6XDvmt32ESCGtsjoTHjxSAThXQzGTocde2JmE7b6Dc
 
 // Other
 global.owner = ['6285162603180','6285156285664','6285817649799','6282122365620']
