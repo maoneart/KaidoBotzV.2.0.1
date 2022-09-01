@@ -1198,12 +1198,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/kaido-Morou'
+                                    url: 'https://github.com/maoneart'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 821-2236-5620'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1237,12 +1237,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/kaido-Morou'
+                                    url: 'https://github.com/maoneart'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 821-2236-5620'
                                 }
                             }, {
                                 quickReplyButton: {
